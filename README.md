@@ -1,5 +1,9 @@
 # tab-tracker-vue
 
+From [Full Stack Web App using Vue.js & Express.js:](https://youtu.be/Fa4cRMaTDUI)
+
+See also [Express server](https://github.com/MikiWojak/tab-tracker-express)
+
 ## Project setup
 ```
 npm install
