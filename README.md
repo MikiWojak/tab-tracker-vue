@@ -2,7 +2,7 @@
 
 From [Full Stack Web App using Vue.js & Express.js:](https://youtu.be/Fa4cRMaTDUI)
 
-The Vue Client if dedicated for [Express Server](https://github.com/MikiWojak/tab-tracker-express)
+The Vue Client is dedicated for [Express Server](https://github.com/MikiWojak/tab-tracker-express)
 
 ## Project setup
 
